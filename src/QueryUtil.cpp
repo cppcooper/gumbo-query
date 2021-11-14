@@ -13,7 +13,7 @@
  *  
  **/
 
-#include <QueryUtil.h>
+#include <gumbo-query/QueryUtil.h>
 
 std::string CQueryUtil::tolower(std::string s)
 {

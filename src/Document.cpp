@@ -13,7 +13,7 @@
  *  
  **/
 
-#include <Document.h>
+#include <gumbo-query/Document.h>
 
 CDocument::CDocument()
 {

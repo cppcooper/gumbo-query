@@ -1,6 +1,6 @@
-#include <Document.h>
-#include <Selection.h>
-#include <Node.h>
+#include <gumbo-query/Document.h>
+#include <gumbo-query/Selection.h>
+#include <gumbo-query/Node.h>
 
 void test_parser() {
 	std::string page("<h1><a>wrong link</a><a class=\"special\"\\>some link</a></h1>");

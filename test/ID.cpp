@@ -6,8 +6,8 @@
 #include <fstream>
 
 #include "Util.h"
-#include "../include/Document.h"
-#include "../include/Node.h"
+#include "gumbo-query/Document.h"
+#include "gumbo-query/Node.h"
 
  using std::string;
 

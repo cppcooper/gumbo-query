@@ -13,9 +13,9 @@
  *  
  **/
 
-#include <Node.h>
-#include <Selection.h>
-#include <QueryUtil.h>
+#include <gumbo-query/Node.h>
+#include <gumbo-query/Selection.h>
+#include <gumbo-query/QueryUtil.h>
 
 CNode::CNode(GumboNode* apNode)
 {

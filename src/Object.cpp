@@ -13,7 +13,7 @@
  *  
  **/
 
-#include <Object.h>
+#include <gumbo-query/Object.h>
 
 CObject::CObject()
 {
