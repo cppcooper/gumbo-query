@@ -13,10 +13,10 @@
  *  
  **/
 
-#include "Selection.h"
-#include "Parser.h"
-#include "QueryUtil.h"
-#include "Node.h"
+#include <Selection.h>
+#include <Parser.h>
+#include <QueryUtil.h>
+#include <Node.h>
 
 CSelection::CSelection(GumboNode* apNode)
 {

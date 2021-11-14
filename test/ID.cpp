@@ -6,8 +6,8 @@
 #include <fstream>
 
 #include "Util.h"
-#include "Document.h"
-#include "Node.h"
+#include "../include/Document.h"
+#include "../include/Node.h"
 
  using std::string;
 

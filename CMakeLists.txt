@@ -24,6 +24,7 @@ find_package(Gumbo REQUIRED)
 set(gumbo_query_SOURCE_DIRECTORY ${PROJECT_SOURCE_DIR}/src)
 
 # Add source subdirectories.
+include_directories(include)
 add_subdirectory(src)
 add_subdirectory(test)
 

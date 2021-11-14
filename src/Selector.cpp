@@ -13,8 +13,8 @@
  *  
  **/
 
-#include "Selector.h"
-#include "QueryUtil.h"
+#include <Selector.h>
+#include <QueryUtil.h>
 
 bool CSelector::match(GumboNode* apNode)
 {

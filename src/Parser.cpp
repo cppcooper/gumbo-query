@@ -13,9 +13,9 @@
  *  
  **/
 
-#include "Parser.h"
-#include "Selector.h"
-#include "QueryUtil.h"
+#include <Parser.h>
+#include <Selector.h>
+#include <QueryUtil.h>
 
 CParser::CParser(std::string aInput)
 {

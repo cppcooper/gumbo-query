@@ -13,7 +13,7 @@
  *  
  **/
 
-#include "Document.h"
+#include <Document.h>
 
 CDocument::CDocument()
 {
